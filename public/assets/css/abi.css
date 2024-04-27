@@ -1,0 +1,7 @@
+
+.nav.nav-aktif li a:hover{
+    background-color: blue;
+}
+.nav-link.active{
+    background-color: blue;
+}
